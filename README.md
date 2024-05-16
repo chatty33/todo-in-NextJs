@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 HomePage
 
-<img width="479" alt="image" src="https://github.com/chatty33/todo-in-NextJs/assets/56465959/14a816d0-264e-449c-ae9c-10ebcad51b0b">
+<img width="477" alt="image" src="https://github.com/chatty33/todo-in-NextJs/assets/56465959/57ae86f2-107e-429b-a52c-7532f7d6239e">
 
 Adding New Tasks
 
